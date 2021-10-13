@@ -2,7 +2,6 @@ import webbrowser
 import imaplib
 import bs4
 import email
-from mail_info import *
 
 # Required Config for Gmail accounts.
 # Others, please look up the documentation....
